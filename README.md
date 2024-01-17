@@ -1,21 +1,14 @@
-This programm is for creating a movie website which has a a list of movie titles which when clicked shows the poster of the said movie .
+# Flatiron Movie Theater
+## Description
+### The website dispalys movie's details, and their particular details such as  title, runtime, showtime, and available tickets when the page loads. 
 
-TECHNOLOGIES USED
-git
-json
-Project set up
-To run the code you will have to clone the repository into your computer and then in your terminal and then run this:json-server --watch db.json
+# code Structure
+### The HTML file (index.html) contains the structure of the web app.
+### The CSS styling is defined in an external stylesheet (main.css).
+### JavaScript functionality is implemented in the index.js script, which fetches character data from an API and dynamically updates the content.
 
-CODE FEATURES
-In the html there is a div with thee class container that contains two columns which are loaded with content from the javascript file .
+# How to Customize the Code
+## Git clone the SSH key `git@github.com:John-Mwau/Week3-Code-Challenge.git` to your local machine. 
 
-in the javascript file tjere is a function called poster(movie) that has a a div containing the poster,when the movie title is clicked, the poster opens.
-
-when the poster pops up the user will be able to see the movie title, a description and the number of tickets available, if the tickets are over a message will pop up.
-
-how to use the program
-Upon opening the application, you'll see a list of available movies in the sidebar.
-Click on a movie to view its details in the main content area.
-If the tickets are available, a "Buy Ticket" button is displayed. Clicking this button will allow you to buy a ticket.
-Author & license
-Kisengi.
+# Author
+ ## This Movie web app is created by James Kisengi.
