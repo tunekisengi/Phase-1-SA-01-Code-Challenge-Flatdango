@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded",()=>{
     getflims ()
 })
 // Get movies data from the local json server
-let baseURL= "https://my-json-server.typicode.com/John-Mwau/Week3-Code-Challenge/films"
+let baseURL= "https://my-json-server.typicode.com/James-Kisengi/Week3-Code-Challenge/films"
 function getflims (){ 
     fetch(baseURL)
     .then (res =>res.json())

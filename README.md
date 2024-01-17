@@ -8,7 +8,7 @@
 ### JavaScript functionality is implemented in the index.js script, which fetches character data from an API and dynamically updates the content.
 
 # How to Customize the Code
-## Git clone the SSH key `git@github.com:John-Mwau/Week3-Code-Challenge.git` to your local machine. 
+## Git clone the SSH key `git@github.com:tunekisengi/Phase-1-SA-01-Code-Challenge-Flatdango.git` to your local machine. 
 
 # Author
  ## This Movie web app is created by James Kisengi.
